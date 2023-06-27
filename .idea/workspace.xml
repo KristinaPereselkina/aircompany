@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ec141fc5-9af8-44ef-8fd7-0a7affce168b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Airport.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Airport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/MilitaryPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/planes/MilitaryPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/MyPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/planes/MyPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/PassengerPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/planes/PassengerPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/Plane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/planes/Plane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Planes/experimentalPlane.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/planes/ExperimentalPlane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/main/java/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/main/java/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java/src/test/java/AirportTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Java/src/test/java/AirportTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Net/Aircompany/Aircompany.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Net/Aircompany/Aircompany.csproj" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2RmOQM2520KKpqohz4msYxfvqmN" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Runner" />
+      <module name="aircompany" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Runner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec141fc5-9af8-44ef-8fd7-0a7affce168b" name="Changes" comment="" />
+      <created>1687851772538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687851772538</updated>
+    </task>
+    <servers />
+  </component>
+</project>
