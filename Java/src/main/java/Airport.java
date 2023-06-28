@@ -31,6 +31,7 @@ public class Airport {
                 militaryPlanes.add((MilitaryPlane) plane);
             }
         }
+
         return militaryPlanes;
     }
 
@@ -55,6 +56,7 @@ public class Airport {
                 transportMilitaryPlanes.add(plane);
             }
         }
+
         return transportMilitaryPlanes;
     }
 
@@ -67,6 +69,7 @@ public class Airport {
                 bomberMilitaryPlanes.add(plane);
             }
         }
+
         return bomberMilitaryPlanes;
 
     }
@@ -78,6 +81,7 @@ public class Airport {
                 experimentalPlanes.add((ExperimentalPlane) plane);
             }
         }
+
         return experimentalPlanes;
     }
 
@@ -87,6 +91,7 @@ public class Airport {
                 return o1.getMaxFlightDistance() - o2.getMaxFlightDistance();
             }
         });
+
         return this;
     }
 
@@ -96,6 +101,7 @@ public class Airport {
                 return o1.getMaxSpeed() - o2.getMaxSpeed();
             }
         });
+
         return this;
     }
 
@@ -105,6 +111,7 @@ public class Airport {
                 return o1.getMaxLoadCapacity() - o2.getMaxLoadCapacity();
             }
         });
+
         return this;
     }
 
